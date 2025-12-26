@@ -29,7 +29,7 @@ This code represents the **core engine** responsible for:
 - 📄 Uses a **PDF certificate template**
 - 📊 Reads participant data from **Google Sheets**
 - ✍️ Dynamically inserts:
-  -| Nome do Aluno | Tipo do Evento | Tipo de Participante | Local do Evento | Data do Evento | Duração |
+- | Nome do Aluno | Tipo do Evento | Tipo de Participante | Local do Evento | Data do Evento | Duração |
 - 🧾 Generates **one PDF per participant**
 - ☁️ Automatically saves files to **Google Drive**
 - ⚙️ Runs entirely on **Google Colab**

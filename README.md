@@ -60,3 +60,8 @@ Install the required libraries in Google Colab:
 ```python
 !pip install PyPDF2
 !pip install reportlab
+
+## 🌐 Language
+
+⚠️ The system is currently available in Portuguese only.
+

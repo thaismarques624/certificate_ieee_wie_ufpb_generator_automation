@@ -50,7 +50,6 @@ This code represents the **core engine** responsible for:
 - **ReportLab** – PDF text rendering
 - **Google Sheets API** (`gspread`)
 - **Google Drive API**
-- *(Streamlit – used in later versions)*
 
 ---
 

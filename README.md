@@ -1,4 +1,4 @@
-# 🎓 Certificate Generator Automation (Google Colab / Streamlit – Raw Version)
+# 🎓 Certificate IEEE WIE UFPB Generator Automation (Google Colab / Streamlit – Raw Version)
 
 This project is an **automation for generating certificates in PDF format**, built in **Python**, designed to generate certificates **in bulk** based on data stored in **Google Sheets**.
 
